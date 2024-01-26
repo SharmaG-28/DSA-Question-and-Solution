@@ -26,7 +26,7 @@ class CheckBit
 
 //{ Driver Code Starts.
 
-class GFG
+class setOrNot
 {
 	static int n;
 	static int k;
