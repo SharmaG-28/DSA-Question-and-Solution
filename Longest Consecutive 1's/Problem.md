@@ -24,7 +24,7 @@ longest consecutive set bits of length 4.
 You don't need to read input or print anything. Your task is to complete the function maxConsecutiveOnes() which returns the length of the longest consecutive 1s in the binary representation of given N.
 
 #
-Expected Time Complexity: O(log N).
+Expected Time Complexity: O(log N).  
 Expected Auxiliary Space: O(1).
 
 # Constraints:
