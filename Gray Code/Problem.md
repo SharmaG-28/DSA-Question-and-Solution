@@ -31,7 +31,7 @@ You don't need to read input or print anything. Your task is to complete the fun
 
  
 #
-Expected Time Complexity: O(1)
+Expected Time Complexity: O(1)  
 Expected Auxiliary Space: O(1)
 
  
