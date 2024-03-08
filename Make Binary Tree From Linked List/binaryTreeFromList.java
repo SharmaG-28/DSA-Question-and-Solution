@@ -45,7 +45,7 @@ class MakeBT {
                     llist.addToTheLast(new Node(a));
                 }
             }
-            GfG g = new GfG();
+            binaryTreeFromList g = new binaryTreeFromList();
             Tree root = g.convert(lhead, node);
             try {
                 levelOrder(root, n);
@@ -79,7 +79,7 @@ class MakeBT {
 }
 // } Driver Code Ends
 
-class binaryTreeFeomList 
+class binaryTreeFromList 
 {
     //Function to make binary tree from linked list.
     public static Tree convert(Node head, Tree node) {
